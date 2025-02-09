@@ -549,13 +549,13 @@ author:
   links:
     - title: Twitter
       url: https://twitter.com/username
-      icon: fab fa-twitter-square
+      icon: fa-brands fa-square-twitter
     - title: Instagram
       url: https://instagram.com/username
-      icon: fab fa-instagram
+      icon: fa-brands fa-instagram
     - title: GitHub
       url: https://github.com/username
-      icon: fab fa-github-square
+      icon: fa-brands fa-square-github
 ```
 
 **Note:** To disable author links completely use use:
